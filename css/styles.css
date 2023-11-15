@@ -11598,10 +11598,10 @@ html {
 }
 .profile .profile-img {
   height: 80vw;
-  max-height: 45rem;
+  max-height: 100rem;
   position: absolute;
-  bottom: 0;
-  left: 50%;
+  bottom: 20px;
+  left: 55%;
   transform: translateX(-50%);
 }
 .profile .dots-1 {
