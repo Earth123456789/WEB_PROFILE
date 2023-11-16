@@ -31,5 +31,3 @@
 
 Thanks For Watching!
 =======
-# WEB_PROFILE
- HTML+CSS+BOOTSTRAP
